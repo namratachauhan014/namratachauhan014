@@ -2,6 +2,7 @@
   <img
     src="./banner.png"
     width="500"
+    length="600"
     alt="Spring Blossom Banner"
   />
 </p>
