@@ -1,11 +1,6 @@
 # ✨ Hi, I'm Namrata
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=3500&pause=1500&color=FFD700&center=true&vCenter=true&width=700&height=100&lines=Namrata+Chauhan"
-    alt="Namrata Chauhan"
-  />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=3500&pause=1500&color=8B0000&center=true&vCenter=true&width=700&height=100&lines=Namrata+Chauhan" alt="Namrata Chauhan" /> </p>
 
 <p align="center">
   <b>💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer</b>
