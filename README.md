@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer</b>
+  <b>✨ 💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer ✨</b>
 </p>
 
 ---
@@ -37,16 +37,18 @@ I enjoy learning new technologies, building projects, solving challenging proble
 ### 💡 Other Skills
 
 <p align="center">
-  🧩 <b>Problem Solving</b>
+  ✨ <b>Problem Solving</b>
   &nbsp;&nbsp; • &nbsp;&nbsp;
-  💡 <b>Creative Thinking</b>
+  ✨ <b>Creative Thinking</b>
   &nbsp;&nbsp; • &nbsp;&nbsp;
-  🎨 <b>Designing</b>
+  ✨ <b>Designing</b>
 </p>
 
 ---
 
 ## 🚀 What I Do
+
+<p align="center">
 
 ```text
 💻 Code
@@ -57,25 +59,30 @@ I enjoy learning new technologies, building projects, solving challenging proble
    ↓
 🎨 Design
    ↓
-🚀 Build
+✨ Build
    ↓
 📚 Learn & Improve
 ```
+
+</p>
 
 ---
 
 ## 🌱 Currently
 
 <p align="center">
-  <b>Learning • Building • Creating • Improving</b>
+  <b>✨ Learning • Building • Creating • Improving ✨</b>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Think creatively. Solve intelligently. Build continuously."</i>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=4000&pause=1200&color=FFD700&center=true&vCenter=true&width=700&height=60&lines=Think+Creatively+✨;Solve+Intelligently+💡;Build+Continuously+🚀"
+    alt="Quote"
+  />
 </p>
 
 <p align="center">
-  ✨ Thanks for visiting my profile! ✨
+  <b>✨ Thanks for visiting my profile! ✨</b>
 </p>
