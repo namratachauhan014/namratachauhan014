@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=3500&pause=1500&color=FFD700&center=true&vCenter=true&width=500&height=100&lines=Namrata+Chauhan"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=52&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=100&lines=NAMRATA+CHAUHAN"
     alt="NAMRATA CHAUHAN"
   />
 </p>
