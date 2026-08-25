@@ -1,21 +1,96 @@
-# Hi, I'm Namrata 👋
+# ✨ Hi, I'm Namrata
 
-### 💻 Developer | Problem Solver | Creative Thinker
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=3500&pause=1500&color=FFD700&center=true&vCenter=true&width=700&height=100&lines=Namrata+Chauhan"
+    alt="Namrata Chauhan"
+  />
+</p>
 
-I'm passionate about **coding, problem solving, creative thinking, and designing**. I enjoy learning new technologies and building projects that turn ideas into useful solutions.
+<p align="center">
+  <b>💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer</b>
+</p>
 
-### 🛠️ Skills
+---
 
-* 🐍 Python
-* ⚙️ C
-* 💻 C++
-* 🗄️ SQL
-* 🧩 Problem Solving
-* 💡 Creative Thinking
-* 🎨 Designing
+## 🌟 About Me
 
-### 🚀 Currently
+I'm passionate about **coding, problem solving, creative thinking, and designing**.
 
-Learning, building, and improving one project at a time.
+I enjoy learning new technologies, building projects, solving challenging problems, and turning creative ideas into practical solutions.
 
-> **Think. Create. Solve. Build.**
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
+</p>
+
+<p align="center">
+  🐍 Python &nbsp; • &nbsp;
+  ⚙️ C &nbsp; • &nbsp;
+  💻 C++ &nbsp; • &nbsp;
+  🗄️ SQL
+</p>
+
+### 💡 Other Skills
+
+<p align="center">
+  🧩 <b>Problem Solving</b>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  💡 <b>Creative Thinking</b>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  🎨 <b>Designing</b>
+</p>
+
+---
+
+## 🚀 What I Do
+
+```text
+💻 Code
+   ↓
+🧩 Solve Problems
+   ↓
+💡 Think Creatively
+   ↓
+🎨 Design
+   ↓
+🚀 Build
+   ↓
+📚 Learn & Improve
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 🌱 Currently
+
+<p align="center">
+  <b>Learning • Building • Creating • Improving</b>
+</p>
+
+---
+
+<p align="center">
+  <i>"Think creatively. Solve intelligently. Build continuously."</i>
+</p>
+
+<p align="center">
+  ✨ Thanks for visiting my profile! ✨
+</p>
