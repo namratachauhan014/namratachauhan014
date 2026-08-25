@@ -2,9 +2,21 @@
 
 <p align="center">
   <img
+    src="./banner.png"
+    width="800"
+    alt="Spring Blossom Banner"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=3500&pause=1500&color=FFD700&center=true&vCenter=true&width=700&height=100&lines=Namrata+Chauhan"
     alt="Namrata Chauhan"
   />
+</p>
+
+<p align="center">
+  <b>💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer</b>
 </p>
 
 
