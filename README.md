@@ -1,4 +1,8 @@
 <p align="center">
+  <i>“Where blossoms bloom, dreams quietly begin.”</i> 🌸
+</p>
+
+<p align="center">
   <img
     src="./banner.png"
     width="500"
