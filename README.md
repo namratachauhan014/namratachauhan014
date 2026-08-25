@@ -1,5 +1,3 @@
-# ✨ Hi, I'm Namrata
-
 <p align="center">
   <img
     src="./banner.png"
@@ -14,11 +12,6 @@
     alt="Namrata Chauhan"
   />
 </p>
-
-<p align="center">
-  <b>💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer</b>
-</p>
-
 
 <p align="center">
   <b>💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer</b>
