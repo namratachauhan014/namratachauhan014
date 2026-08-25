@@ -1,33 +1,10 @@
-# 🩸 Hi, I'm Namrata
+# ✨ Hi, I'm Namrata
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3000&pause=1200&color=FF2B2B&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+profile+✨;Developer+%7C+Problem+Solver;Creative+Thinker+%7C+Designer" alt="Introduction" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/N-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/A-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/M-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/A-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/T-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/A-8B0000?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/H-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/A-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/U-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/H-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/A-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/N-8B0000?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center">
-  ✦ ─────────────── 🩸 ─────────────── ✦
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=3500&pause=1500&color=FFD700&center=true&vCenter=true&width=700&height=100&lines=Namrata+Chauhan"
+    alt="Namrata Chauhan"
+  />
 </p>
 
 <p align="center">
@@ -36,7 +13,7 @@
 
 ---
 
-## 🩸 About Me
+## 🌟 About Me
 
 I'm passionate about **coding, problem solving, creative thinking, and designing**.
 
@@ -60,11 +37,11 @@ I enjoy learning new technologies, building projects, solving challenging proble
 ### 💡 Other Skills
 
 <p align="center">
-  🩸 <b>Problem Solving</b>
+  🧩 <b>Problem Solving</b>
   &nbsp;&nbsp; • &nbsp;&nbsp;
-  🩸 <b>Creative Thinking</b>
+  💡 <b>Creative Thinking</b>
   &nbsp;&nbsp; • &nbsp;&nbsp;
-  🩸 <b>Designing</b>
+  🎨 <b>Designing</b>
 </p>
 
 ---
@@ -80,7 +57,7 @@ I enjoy learning new technologies, building projects, solving challenging proble
    ↓
 🎨 Design
    ↓
-🩸 Build
+🚀 Build
    ↓
 📚 Learn & Improve
 ```
@@ -90,15 +67,15 @@ I enjoy learning new technologies, building projects, solving challenging proble
 ## 🌱 Currently
 
 <p align="center">
-  <b>🩸 Learning • Building • Creating • Improving 🩸</b>
+  <b>Learning • Building • Creating • Improving</b>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=4000&pause=1200&color=FF2B2B&center=true&vCenter=true&width=700&height=60&lines=Think+Creatively+✨;Solve+Intelligently+🧩;Build+Continuously+🚀" alt="Quote" />
+  <i>"Think creatively. Solve intelligently. Build continuously."</i>
 </p>
 
 <p align="center">
-  <b>🩸 ✨ Thanks for visiting my profile! ✨ 🩸</b>
+  ✨ Thanks for visiting my profile! ✨
 </p>
