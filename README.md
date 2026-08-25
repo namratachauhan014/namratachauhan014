@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="./banner.png"
-    width="800"
+    width="500"
     alt="Spring Blossom Banner"
   />
 </p>
