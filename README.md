@@ -36,8 +36,6 @@
   <b>🎨 Designer</b>
 </p>
 
----
-
 ## 🌸 About Me
 
 > 🌷 I'm passionate about **coding, problem solving, creative thinking, and designing**.
@@ -48,15 +46,11 @@
   ✧･ﾟ: *✧･ﾟ:* 🌸 *:･ﾟ✧*:･ﾟ✧
 </p>
 
----
-
 ## 🌷 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
 </p>
-
----
 
 <p align="center">
   🐍 <b>Python</b>
@@ -68,8 +62,6 @@
   🗄️ <b>SQL</b>
 </p>
 
----
-
 ### 🌸 Other Skills
 
 <p align="center">
@@ -80,11 +72,7 @@
   🎨 <b>Designing</b>
 </p>
 
----
-
 </p>
-
----
 
 ## 🌷 Currently
 
@@ -101,8 +89,6 @@
 <p align="center">
   🌸 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌸
 </p>
-
----
 
 <p align="center">
   <i>“Think creatively. Solve intelligently. Build continuously.”</i> 🌷
