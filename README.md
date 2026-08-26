@@ -1,9 +1,9 @@
 <p align="center">
-  🌸 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
+  🌸 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌸
 </p>
 
 <p align="center">
-  <i>“Where blossoms bloom, dreams quietly begin.”</i> 🌸
+  <i>“Where blossoms bloom, dreams quietly begin.”</i> 
 </p>
 
 <p align="center">
