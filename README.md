@@ -52,16 +52,6 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
 </p>
 
-<p align="center">
-  🐍 <b>Python</b>
-  &nbsp; ❀ &nbsp;
-  ⚙️ <b>C</b>
-  &nbsp; ❀ &nbsp;
-  💻 <b>C++</b>
-  &nbsp; ❀ &nbsp;
-  🗄️ <b>SQL</b>
-</p>
-
 </p>
 
 ## 🌷 Currently
