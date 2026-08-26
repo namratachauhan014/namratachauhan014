@@ -67,10 +67,6 @@
 </p>
 
 <p align="center">
-  🌸 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌸
-</p>
-
-<p align="center">
   <i>“Think creatively. Solve intelligently. Build continuously.”</i> 🌷
 </p>
 
@@ -82,6 +78,3 @@
   <b>✨ Thank you for visiting my little corner of GitHub! ✨</b>
 </p>
 
-<p align="center">
-  🌷 ♡ 🌸 ♡ 🦋 ♡ 🌸 ♡ 🌷
-</p>
