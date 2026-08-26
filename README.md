@@ -42,10 +42,6 @@
 
 > 🦋 I enjoy learning new technologies, building projects, solving challenging problems, and turning creative ideas into practical solutions.
 
-<p align="center">
-  ✧･ﾟ: *✧･ﾟ:* 🌸 *:･ﾟ✧*:･ﾟ✧
-</p>
-
 ## 🌷 Skills
 
 <p align="center">
