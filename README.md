@@ -1,12 +1,20 @@
 <p align="center">
+  🌸 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
+</p>
+
+<p align="center">
   <i>“Where blossoms bloom, dreams quietly begin.”</i> 🌸
+</p>
+
+<p align="center">
+  🌷 ⋆｡°✩ 🌸 ✩°｡⋆ 🦋 ⋆｡°✩ 🌸 ✩°｡⋆ 🌷
 </p>
 
 <p align="center">
   <img
     src="./banner.png"
     width="500"
-    length="600"
+    height="600"
     alt="Spring Blossom Banner"
   />
 </p>
@@ -14,7 +22,6 @@
 <p align="center">
   🌸 ❀ 🌸 ❀ 🌸 ❀ 🌸 ❀ 🌸 ❀ 🌸
 </p>
-
 
 <p align="center">
   <img
@@ -24,74 +31,117 @@
 </p>
 
 <p align="center">
-  <b>💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer</b>
+  🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
+</p>
+
+<p align="center">
+  <b>💻 Developer</b>
+  &nbsp; ✿ &nbsp;
+  <b>🧩 Problem Solver</b>
+  &nbsp; ✿ &nbsp;
+  <b>💡 Creative Thinker</b>
+  &nbsp; ✿ &nbsp;
+  <b>🎨 Designer</b>
 </p>
 
 ---
 
-##  About Me
+## 🌸 About Me
 
-I'm passionate about **coding, problem solving, creative thinking, and designing**.
+> 🌷 I'm passionate about **coding, problem solving, creative thinking, and designing**.
 
-I enjoy learning new technologies, building projects, solving challenging problems, and turning creative ideas into practical solutions.
+> 🦋 I enjoy learning new technologies, building projects, solving challenging problems, and turning creative ideas into practical solutions.
+
+<p align="center">
+  ✧･ﾟ: *✧･ﾟ:* 🌸 *:･ﾟ✧*:･ﾟ✧
+</p>
 
 ---
 
-##  Skills
+## 🌷 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
 </p>
 
 <p align="center">
-  🐍 Python &nbsp; • &nbsp;
-  ⚙️ C &nbsp; • &nbsp;
-  💻 C++ &nbsp; • &nbsp;
-  🗄️ SQL
+  🐍 <b>Python</b>
+  &nbsp; ❀ &nbsp;
+  ⚙️ <b>C</b>
+  &nbsp; ❀ &nbsp;
+  💻 <b>C++</b>
+  &nbsp; ❀ &nbsp;
+  🗄️ <b>SQL</b>
 </p>
 
-###  Other Skills
+### 🌸 Other Skills
 
 <p align="center">
   🧩 <b>Problem Solving</b>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
+  &nbsp;&nbsp; ♡ &nbsp;&nbsp;
   💡 <b>Creative Thinking</b>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
+  &nbsp;&nbsp; ♡ &nbsp;&nbsp;
   🎨 <b>Designing</b>
 </p>
 
+<p align="center">
+  🌷 ─────────── ✿ ─────────── 🌷
+</p>
+
 ---
 
-##  What I Do
+## 🦋 What I Do
+
+<p align="center">
 
 ```text
-💻 Code
+🌱 Code
    ↓
 🧩 Solve Problems
    ↓
-💡 Think Creatively
+💭 Think Creatively
    ↓
 🎨 Design
    ↓
-🚀 Build
+✨ Build
    ↓
-📚 Learn & Improve
+🌸 Learn & Improve
 ```
 
+</p>
+
 ---
 
-##  Currently
+## 🌷 Currently
 
 <p align="center">
-  <b>Learning • Building • Creating • Improving</b>
+  🌱 <b>Learning</b>
+  &nbsp; • &nbsp;
+  🛠️ <b>Building</b>
+  &nbsp; • &nbsp;
+  🎀 <b>Creating</b>
+  &nbsp; • &nbsp;
+  🦋 <b>Improving</b>
+</p>
+
+<p align="center">
+  🌸 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌸
 </p>
 
 ---
 
 <p align="center">
-  <i>"Think creatively. Solve intelligently. Build continuously."</i>
+  <i>“Think creatively. Solve intelligently. Build continuously.”</i> 🌷
 </p>
 
 <p align="center">
-  ✨ Thanks for visiting my profile! ✨
+  🌸 ✦ 🦋 ✦ 🌸 ✦ 🦋 ✦ 🌸
+</p>
+
+<p align="center">
+  <b>✨ Thank you for visiting my little corner of GitHub! ✨</b>
+</p>
+
+<p align="center">
+  🌷 ♡ 🌸 ♡ 🦋 ♡ 🌸 ♡ 🌷
 </p>
