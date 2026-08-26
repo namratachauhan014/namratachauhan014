@@ -31,10 +31,6 @@
 </p>
 
 <p align="center">
-  🌷 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌷
-</p>
-
-<p align="center">
   <b>💻 Developer</b>
   &nbsp; ✿ &nbsp;
   <b>🧩 Problem Solver</b>
