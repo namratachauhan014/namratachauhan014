@@ -56,6 +56,8 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
 </p>
 
+---
+
 <p align="center">
   🐍 <b>Python</b>
   &nbsp; ❀ &nbsp;
@@ -66,6 +68,8 @@
   🗄️ <b>SQL</b>
 </p>
 
+---
+
 ### 🌸 Other Skills
 
 <p align="center">
@@ -74,10 +78,6 @@
   💡 <b>Creative Thinking</b>
   &nbsp;&nbsp; ♡ &nbsp;&nbsp;
   🎨 <b>Designing</b>
-</p>
-
-<p align="center">
-  🌷 ─────────── ✿ ─────────── 🌷
 </p>
 
 ---
