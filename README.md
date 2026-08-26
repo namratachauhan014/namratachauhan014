@@ -1,8 +1,4 @@
 <p align="center">
-  🌸 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ 🌸
-</p>
-
-<p align="center">
   <i>“Where blossoms bloom, dreams quietly begin.”</i> 
 </p>
 
