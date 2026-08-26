@@ -1,5 +1,3 @@
-<!-- 🌸 Blossom Header -->
-
 <p align="center">
   <i>“Where blossoms bloom, dreams quietly begin.”</i> 🌸
 </p>
@@ -8,6 +6,7 @@
   <img
     src="./banner.png"
     width="500"
+    length="600"
     alt="Spring Blossom Banner"
   />
 </p>
@@ -17,8 +16,6 @@
 </p>
 
 
-<!-- 🎀 Name -->
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=3500&pause=1500&color=FFB6C1&center=true&vCenter=true&width=700&height=100&lines=Namrata+Chauhan"
@@ -26,22 +23,11 @@
   />
 </p>
 
-
-<!-- 🍬 Cute Introduction -->
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=24&duration=1&pause=100000&color=FFB6C1&center=true&vCenter=true&width=900&height=55&lines=💻+Developer+•+🧩+Problem+Solver+•+💡+Creative+Thinker+•+🎨+Designer"
-    alt="Developer • Problem Solver • Creative Thinker • Designer"
-  />
+  <b>💻 Developer &nbsp;•&nbsp; 🧩 Problem Solver &nbsp;•&nbsp; 💡 Creative Thinker &nbsp;•&nbsp; 🎨 Designer</b>
 </p>
 
-<p align="center">
-  🌷 ──────────────── 🌷
-</p>
-
-
-<!-- 🌟 About Me -->
+---
 
 ## 🌟 About Me
 
@@ -49,8 +35,7 @@ I'm passionate about **coding, problem solving, creative thinking, and designing
 
 I enjoy learning new technologies, building projects, solving challenging problems, and turning creative ideas into practical solutions.
 
-
-<!-- 🛠️ Skills -->
+---
 
 ## 🛠️ Skills
 
@@ -59,15 +44,11 @@ I enjoy learning new technologies, building projects, solving challenging proble
 </p>
 
 <p align="center">
-  🍬 <b>Python</b>
-  &nbsp; • &nbsp;
-  ⚙️ <b>C</b>
-  &nbsp; • &nbsp;
-  💻 <b>C++</b>
-  &nbsp; • &nbsp;
-  🗄️ <b>SQL</b>
+  🐍 Python &nbsp; • &nbsp;
+  ⚙️ C &nbsp; • &nbsp;
+  💻 C++ &nbsp; • &nbsp;
+  🗄️ SQL
 </p>
-
 
 ### 💡 Other Skills
 
@@ -79,8 +60,7 @@ I enjoy learning new technologies, building projects, solving challenging proble
   🎨 <b>Designing</b>
 </p>
 
-
-<!-- 🚀 What I Do -->
+---
 
 ## 🚀 What I Do
 
@@ -96,3 +76,22 @@ I enjoy learning new technologies, building projects, solving challenging proble
 🚀 Build
    ↓
 📚 Learn & Improve
+```
+
+---
+
+## 🌱 Currently
+
+<p align="center">
+  <b>Learning • Building • Creating • Improving</b>
+</p>
+
+---
+
+<p align="center">
+  <i>"Think creatively. Solve intelligently. Build continuously."</i>
+</p>
+
+<p align="center">
+  ✨ Thanks for visiting my profile! ✨
+</p>
