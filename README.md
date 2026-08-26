@@ -29,7 +29,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm passionate about **coding, problem solving, creative thinking, and designing**.
 
@@ -37,7 +37,7 @@ I enjoy learning new technologies, building projects, solving challenging proble
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql" />
@@ -50,7 +50,7 @@ I enjoy learning new technologies, building projects, solving challenging proble
   🗄️ SQL
 </p>
 
-### 💡 Other Skills
+###  Other Skills
 
 <p align="center">
   🧩 <b>Problem Solving</b>
@@ -62,7 +62,7 @@ I enjoy learning new technologies, building projects, solving challenging proble
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 ```text
 💻 Code
@@ -80,7 +80,7 @@ I enjoy learning new technologies, building projects, solving challenging proble
 
 ---
 
-## 🌱 Currently
+##  Currently
 
 <p align="center">
   <b>Learning • Building • Creating • Improving</b>
