@@ -26,16 +26,6 @@
   />
 </p>
 
-<p align="center">
-  <b>💻 Developer</b>
-  &nbsp; ✿ &nbsp;
-  <b>🧩 Problem Solver</b>
-  &nbsp; ✿ &nbsp;
-  <b>💡 Creative Thinker</b>
-  &nbsp; ✿ &nbsp;
-  <b>🎨 Designer</b>
-</p>
-
 ## 🌸 About Me
 
 > 🌷 I'm passionate about **coding, problem solving, creative thinking, and designing**.
