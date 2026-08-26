@@ -62,16 +62,6 @@
   🗄️ <b>SQL</b>
 </p>
 
-### 🌸 Other Skills
-
-<p align="center">
-  🧩 <b>Problem Solving</b>
-  &nbsp;&nbsp; ♡ &nbsp;&nbsp;
-  💡 <b>Creative Thinking</b>
-  &nbsp;&nbsp; ♡ &nbsp;&nbsp;
-  🎨 <b>Designing</b>
-</p>
-
 </p>
 
 ## 🌷 Currently
