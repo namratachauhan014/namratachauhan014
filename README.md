@@ -29,7 +29,7 @@
 
 ---
 
-##  About Me
+##⋆｡˚  About Me
 
 I'm passionate about **coding, problem solving, creative thinking, and designing**.
 
