@@ -60,7 +60,5 @@
   🌸 ✦ 🦋 ✦ 🌸 ✦ 🦋 ✦ 🌸
 </p>
 
-<p align="center">
-  <b>✨ Thank you for visiting my little corner of GitHub! ✨</b>
-</p>
+
 
