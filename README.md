@@ -82,24 +82,6 @@
 
 ---
 
-## 🦋 What I Do
-
-<p align="center">
-
-```text
-🌱 Code
-   ↓
-🧩 Solve Problems
-   ↓
-💭 Think Creatively
-   ↓
-🎨 Design
-   ↓
-✨ Build
-   ↓
-🌸 Learn & Improve
-```
-
 </p>
 
 ---
